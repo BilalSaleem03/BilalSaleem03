@@ -7,17 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/bilalsa92402441" target="blank"><img src="https://img.shields.io/twitter/follow/bilalsa92402441?logo=twitter&style=for-the-badge" alt="bilalsa92402441" /></a> </p>
 
-- 🔭 I’m currently working on **Data Structures**
+
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/muhammad-bilal-saleem-a175412a4/](https://www.linkedin.com/in/muhammad-bilal-saleem-a175412a4/)
 
 - 💬 Ask me about **Problem Solving , programming**
 
 - 📫 How to reach me **mr.bilalsaleem2003@gmail.com**
 
-- ⚡ Fun fact **I am an introvert.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
