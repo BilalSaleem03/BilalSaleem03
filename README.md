@@ -1,7 +1,6 @@
-[![MasterHead](https://stock.adobe.com/images/programming-code-abstract-technology-background-of-software-developer-and-computer-script-3d-illustration/408079686)]
+
 <h1 align="center">Hi 👋, I'm Bilal Saleem</h1>
 <h3 align="center">A passionate Student of Computer Science.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+coding+images&sca_esv=601771759&tbm=isch&sxsrf=ACQVn0-CziDUqKbdN6B40LaGqdfOSRro9Q:1706298364752&source=lnms&sa=X&ved=2ahUKEwi7saXf6PuDAxVSAvsDHdNQDKcQ_AUoAXoECAIQAw&biw=1366&bih=641&dpr=1#imgrc=3Qrr8CG8dh5gWM">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalsaleem03&label=Profile%20views&color=0e75b6&style=flat" alt="bilalsaleem03" /> </p>
