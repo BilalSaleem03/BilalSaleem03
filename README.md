@@ -9,9 +9,9 @@
 
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Backend and AI**
 
-- 💬 Ask me about **Problem Solving , programming**
+- 💬 Ask me about **Nest js and ML**
 
 - 📫 How to reach me **mr.bilalsaleem2003@gmail.com**
 
